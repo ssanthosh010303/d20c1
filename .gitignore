@@ -1,0 +1,6 @@
+.vs/
+.mono/
+bin/
+obj/
+
+*.sln
